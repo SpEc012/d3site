@@ -23,4 +23,6 @@ Then open http://localhost:8080
 
 ## Contact
 
-D3 Inspection ·
+D3 Inspection
+d3inspectionllc@gmail.com
+5959 129th Ave NW, Epping, ND 58843

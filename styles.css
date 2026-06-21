@@ -13,7 +13,7 @@
   --line:       #e7e3df;
   --line-soft:  #efece8;
   --card:       #ffffff;
-  --bg:         #f4f1ed;
+  --bg:         #e8eaed;
 
   --radius:     22px;
   --radius-sm:  14px;
@@ -39,10 +39,14 @@ body {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 
-  background:
-    radial-gradient(1100px 560px at 50% -8%, rgba(171, 42, 32, 0.06), transparent 62%),
-    radial-gradient(900px 600px at 100% 100%, rgba(48, 73, 99, 0.05), transparent 60%),
-    linear-gradient(180deg, #f7f4f0 0%, #efebe6 100%);
+  background-color: var(--bg);
+  background-image:
+    radial-gradient(1200px 620px at 50% -12%, rgba(171, 42, 32, 0.045), transparent 60%),
+    radial-gradient(1000px 680px at 100% 112%, rgba(54, 70, 92, 0.05), transparent 60%),
+    radial-gradient(rgba(60, 68, 82, 0.055) 1px, transparent 1.6px);
+  background-size: 100% 100%, 100% 100%, 22px 22px;
+  background-position: center, center, -1px -1px;
+  background-repeat: no-repeat, no-repeat, repeat;
   background-attachment: fixed;
 }
 

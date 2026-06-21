@@ -41,11 +41,11 @@ body {
 
   background-color: var(--bg);
   background-image:
-    radial-gradient(1200px 620px at 50% -12%, rgba(171, 42, 32, 0.045), transparent 60%),
-    radial-gradient(1000px 680px at 100% 112%, rgba(54, 70, 92, 0.05), transparent 60%),
-    radial-gradient(rgba(60, 68, 82, 0.055) 1px, transparent 1.6px);
-  background-size: 100% 100%, 100% 100%, 22px 22px;
-  background-position: center, center, -1px -1px;
+    radial-gradient(1200px 620px at 50% -12%, rgba(171, 42, 32, 0.05), transparent 60%),
+    radial-gradient(1000px 680px at 100% 112%, rgba(54, 70, 92, 0.06), transparent 60%),
+    radial-gradient(rgba(43, 52, 69, 0.14) 1.5px, transparent 1.6px);
+  background-size: 100% 100%, 100% 100%, 20px 20px;
+  background-position: center, center, 0 0;
   background-repeat: no-repeat, no-repeat, repeat;
   background-attachment: fixed;
 }

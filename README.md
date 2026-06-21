@@ -23,6 +23,4 @@ Then open http://localhost:8080
 
 ## Contact
 
-D3 Inspection · Chad Pittsley
-(775) 544-3553 · d3inspectionllc@gmail.com
-5959 129th Ave NW, Epping, ND 58843
+D3 Inspection ·
